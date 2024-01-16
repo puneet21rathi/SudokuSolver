@@ -43,10 +43,10 @@ Sudoku Solver is a project I developed to solve Sudoku puzzles. Sudoku is a popu
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- Data Structures
+- HTML.
+- CSS.
+- JavaScript.
+- Data Structures.
 
 ## Installation
 
