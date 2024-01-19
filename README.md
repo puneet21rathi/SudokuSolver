@@ -39,7 +39,7 @@ Sudoku Solver is a project I developed to solve Sudoku puzzles. Sudoku is a popu
 - Click the "Solve" button to automatically solve the Sudoku puzzle.
 
 6. **Clear the Board:**
-- Use the "Clear" button to start a new puzzle.
+- Use the "Clear" button to start a brand new puzzle.
 
 ## Technologies Used
 
