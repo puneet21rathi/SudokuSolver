@@ -46,7 +46,7 @@ Sudoku Solver is a project I developed to solve Sudoku puzzles. Sudoku is a popu
 - HTML.
 - CSS.
 - JavaScript.
-- Data Structures.
+- Data Structures (Backtracking Algorithm).
 
 ## Installation
 
