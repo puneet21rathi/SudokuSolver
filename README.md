@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-Welcome to my Sudoku solver project! This web-based Sudoku solver is designed to help you tackle Sudoku puzzles effortlessly. With the power of data structures, HTML, CSS, and JavaScript, you can now solve Sudoku puzzle easily.
+Welcome to my Sudoku solver project! This web-based Sudoku solver is designed to help you tackle Sudoku puzzles effortlessly. With the power of data structures, HTML, CSS, and JavaScript, you can now solve Sudoku puzzle easily and efficiently.
 
 ## Table of Contents
 
