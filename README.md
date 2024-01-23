@@ -24,7 +24,7 @@ Sudoku Solver is a project I developed to solve Sudoku puzzles. Sudoku is a popu
 - **Error Detection:** Real-time error detection to ensure your solution is valid.
 - **Responsive Design:** Works seamlessly on desktop and mobile devices.
 
-## Usage
+## Easy Usage
 
 1. **Clone the Repository:**
 
