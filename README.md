@@ -10,7 +10,6 @@ Welcome to my Sudoku solver project! This web-based Sudoku solver is designed to
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
